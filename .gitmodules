@@ -1,0 +1,3 @@
+[submodule "pcb/lib/E73-2G4M08S1C"]
+	path = pcb/lib/E73-2G4M08S1C
+	url = https://github.com/jmgao/E73-2G4M08S1C.git
